@@ -1,0 +1,13 @@
+# Target labels
+ mpir
+# Source files and their labels
+/workspace/sFuzz/build/CMakeFiles/mpir
+/workspace/sFuzz/build/CMakeFiles/mpir.rule
+/workspace/sFuzz/build/CMakeFiles/mpir-complete.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-install.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-mkdir.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-download.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-update.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-patch.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-configure.rule
+/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-build.rule

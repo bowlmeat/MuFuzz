@@ -1,0 +1,10 @@
+{
+  "name": "aleth",
+  "version": "1.5.0-alpha.3+commit.39c35361",
+  "is_prerelease": true,
+  "commit": "39c35361375b64f178d4cf6e3383906de293b8e1",
+  "branch": "main",
+  "repo": "https://github.com/bowlmeat/MuFuzz.git",
+  "system_name": "linux",
+  "system_processor": "aarch64"
+}

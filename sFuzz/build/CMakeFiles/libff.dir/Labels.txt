@@ -1,0 +1,13 @@
+# Target labels
+ libff
+# Source files and their labels
+/workspace/sFuzz/build/CMakeFiles/libff
+/workspace/sFuzz/build/CMakeFiles/libff.rule
+/workspace/sFuzz/build/CMakeFiles/libff-complete.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-install.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-mkdir.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-download.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-update.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-patch.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-configure.rule
+/workspace/sFuzz/build/deps/src/libff-stamp/libff-build.rule

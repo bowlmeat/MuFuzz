@@ -1,0 +1,2 @@
+/usr/bin/ar qc libliboracle.a  CMakeFiles/liboracle.dir/Common.cpp.o CMakeFiles/liboracle.dir/OracleFactory.cpp.o
+/usr/bin/ranlib libliboracle.a

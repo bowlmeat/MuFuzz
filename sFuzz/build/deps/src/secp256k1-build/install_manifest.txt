@@ -1,0 +1,5 @@
+/workspace/sFuzz/build/deps/lib/libsecp256k1.a
+/workspace/sFuzz/build/deps/include/secp256k1_ecdh.h
+/workspace/sFuzz/build/deps/include/secp256k1_recovery.h
+/workspace/sFuzz/build/deps/include/secp256k1_sha256.h
+/workspace/sFuzz/build/deps/include/secp256k1.h

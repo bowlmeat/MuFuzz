@@ -1,0 +1,13 @@
+# Target labels
+ binaryen
+# Source files and their labels
+/workspace/sFuzz/build/CMakeFiles/binaryen
+/workspace/sFuzz/build/CMakeFiles/binaryen.rule
+/workspace/sFuzz/build/CMakeFiles/binaryen-complete.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-install.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-mkdir.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-download.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-update.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-patch.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-configure.rule
+/workspace/sFuzz/build/deps/src/binaryen-stamp/binaryen-build.rule

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspace/sFuzz/build/aleth/buildinfo.c
+buildinfo.h
+/workspace/sFuzz/build/aleth/buildinfo.h
+
+/workspace/sFuzz/build/aleth/buildinfo.h
+

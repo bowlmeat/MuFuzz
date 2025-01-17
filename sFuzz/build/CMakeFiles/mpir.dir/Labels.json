@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/sFuzz/build/CMakeFiles/mpir"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/CMakeFiles/mpir.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/CMakeFiles/mpir-complete.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-install.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-download.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-update.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-patch.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-configure.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/mpir-stamp/mpir-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mpir"
+		],
+		"name" : "mpir"
+	}
+}

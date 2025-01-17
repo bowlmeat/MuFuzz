@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/sFuzz/build/CMakeFiles/libff"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/CMakeFiles/libff.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/CMakeFiles/libff-complete.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-install.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-download.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-update.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-patch.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-configure.rule"
+		},
+		{
+			"file" : "/workspace/sFuzz/build/deps/src/libff-stamp/libff-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libff"
+		],
+		"name" : "libff"
+	}
+}

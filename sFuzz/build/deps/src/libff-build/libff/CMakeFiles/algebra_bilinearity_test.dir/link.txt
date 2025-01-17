@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -Wextra -Wfatal-errors -O3 -DNDEBUG  -rdynamic CMakeFiles/algebra_bilinearity_test.dir/algebra/curves/tests/test_bilinearity.cpp.o  -o algebra_bilinearity_test libff.a /workspace/sFuzz/build/deps/lib/libmpir.a 
